@@ -1,5 +1,16 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+}
+
+#card{
+    height: 600px;
+    width: 400px;
+    border-radius: 5%;
+    font-size: 140px;
+}
+
+button{
+    height: 80px;
 }
